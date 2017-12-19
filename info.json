@@ -1,0 +1,10 @@
+{
+  "name": "Waypoint-stations",
+  "version": "0.1.1",
+  "factorio_version": "0.16",
+  "title": "Waypoint-stations",
+  "author": "aaargha",
+  "contact": "Shoot me a message on the forums/reddit",
+  "homepage": "https://forums.factorio.com/viewtopic.php?f=93&t=52926",
+  "description": "Adds stations that help guide train pathfinding."
+}
